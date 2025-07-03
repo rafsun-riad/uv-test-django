@@ -9,7 +9,7 @@ This guide will help you quickly get started with setting up the **backend (Djan
 
 ## if you don't have postgresql database then continue with the following steps
 
-## after intalling python, open cmd and type pip install uv
+## after installing python, open cmd and type pip install uv
 
 ---
 
