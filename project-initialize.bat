@@ -8,4 +8,6 @@ call migrate.bat
 echo .
 call frontend-initialize.bat
 
+echo Project Setup Complete!
+
 pause
