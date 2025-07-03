@@ -19,7 +19,7 @@ To set up the entire project environment:
 
 project-initialize.bat
 
-## For rest of the commands you can use the following commands
+## For rest you can use the following commands
 
 ```bash
 
