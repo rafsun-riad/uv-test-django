@@ -3,6 +3,14 @@
 Welcome to this project!  
 This guide will help you quickly get started with setting up the **backend (Django)** and **frontend (Next.js or other)** using handy `.bat` scripts.
 
+# before doing anything make sure you have python and uv installed
+
+## if you have postgresql database setup in backend then you have to setup postgresql in your pc and create a database with according to your settings.py database settings...
+
+## if you don't have postgresql database then continue with the following steps
+
+## after intalling python, open cmd and type pip install uv
+
 ---
 
 ## 📂 Project Initialization
