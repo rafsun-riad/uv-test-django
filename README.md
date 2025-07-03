@@ -83,8 +83,3 @@ run-dev.bat
 📝 Notes
 ✅ Make sure you have Python, Node.js, and npm installed on your system.
 ✅ These .bat scripts are designed for Windows environments.
-
----
-
-✅ **You can now copy this and save it as `README.md` in your project root.**
-If you’d like, I can also add badges (Python, Django, Next.js, License, etc.) or a Table of Contents at the top. Just tell me! 🚀
