@@ -6,4 +6,6 @@ echo .
 call migrate.bat
 
 echo .
-call run-server.bat
+call frontend-initialize.bat
+
+pause
